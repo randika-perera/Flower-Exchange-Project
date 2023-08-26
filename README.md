@@ -1,2 +1,2 @@
 # Flower Exchange Project
-Code will be visible after the deadline of the submission :smiley:
+Code will be added after the deadline of the submission :smiley:
