@@ -1,10 +1,8 @@
-# <span style="color:red">
-Flower Exchange Project
-</span>
+# Flower Exchange Project
 
-## OOP Project Based on C++ 
+> OOP Project Based on C++ 
 
-## Project Carried Out Individually
+> Project Carried Out Individually
 
 
 
