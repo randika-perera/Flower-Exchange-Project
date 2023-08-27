@@ -1,8 +1,8 @@
 # Flower Exchange Project
 
-# OOP Project Based on C++ 
+## OOP Project Based on C++ 
 
-# Project carried out individually
+## Project carried out individually
 
 
 ![Task PPT_00001](https://github.com/randika-perera/Flower-Exchange-Project/assets/129817316/f547eb50-53e3-4abe-82fd-6af99b31aa6b)
