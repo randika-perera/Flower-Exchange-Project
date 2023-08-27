@@ -2,8 +2,6 @@
 
 # OOP Project Based on C++ 
 
-# Organized by LSEG Sri Lanka
-
 # Project carried out individually
 
 
