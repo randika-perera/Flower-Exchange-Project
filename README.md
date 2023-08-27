@@ -4,6 +4,7 @@
 
 ## Project Carried Out Individually
 
+---
 
 ![Task PPT_00001](https://github.com/randika-perera/Flower-Exchange-Project/assets/129817316/f547eb50-53e3-4abe-82fd-6af99b31aa6b)
 ![Task PPT_00002](https://github.com/randika-perera/Flower-Exchange-Project/assets/129817316/a8ddb90d-3b76-4ee0-b7c3-bbdb22862905)
