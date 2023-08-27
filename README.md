@@ -1,19 +1,6 @@
 # Flower Exchange Project
 
-## C++ Workshop Series for UoM
-
-## Flower Exchange – Group Project
-
-
-- Two persons per group
-- Duration - Three weeks
-- This is the only Assessment for this workshop
-- *Date of completion – 13 th June 2023
-- *Demonstration of the project – 16 th June 2023 at LSEG Technology Malabe
-
-###### *Exact dates to be decided by the university
-
-## Flower Exchange Group Project
+## Organized by LSEG Sri Lanka
 
 
 - The flower exchange is a system which supports basic trading.
