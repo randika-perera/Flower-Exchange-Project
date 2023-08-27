@@ -1,5 +1,5 @@
 # Flower Exchange Project
 
-## Organized by LSEG Sri Lanka
+## A C++ OOP Project organized by LSEG Sri Lanka
 
 
