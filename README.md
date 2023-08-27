@@ -1,4 +1,6 @@
-# \textcolor{blue}{Flower Exchange Project}
+# <span style="color:red">
+Flower Exchange Project
+</span>
 
 ## OOP Project Based on C++ 
 
