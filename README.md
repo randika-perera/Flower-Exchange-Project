@@ -1,6 +1,6 @@
 # Flower Exchange Project
 
-## A C++ based OOP Project organized by LSEG Sri Lanka
+# A C++ based OOP Project organized by LSEG Sri Lanka
 
 
 ![Task PPT_00001](https://github.com/randika-perera/Flower-Exchange-Project/assets/129817316/f547eb50-53e3-4abe-82fd-6af99b31aa6b)
