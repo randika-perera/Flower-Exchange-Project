@@ -1,8 +1,8 @@
 # Flower Exchange Project
 
-# C++ Workshop Series for UoM
+## C++ Workshop Series for UoM
 
-# Flower Exchange – Group Project
+## Flower Exchange – Group Project
 
 
 - Two persons per group
