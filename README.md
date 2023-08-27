@@ -1,6 +1,8 @@
 # Flower Exchange Project
 
-# A C++ based OOP Project organized by LSEG Sri Lanka
+# OOP Project Based on C++ 
+
+# Organized by LSEG Sri Lanka
 
 # Project carried out individually
 
