@@ -1,8 +1,8 @@
 # Flower Exchange Project
 
-> **OOP Project Based on C++** 
+> **OOP project based on C++** 
 
-> **Project Carried Out Individually**
+> **Project carried out individually**
 
 > **Final code and examples can be found in the Code folder of this repository.**
 
