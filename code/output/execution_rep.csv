@@ -1,0 +1,6 @@
+Order ID,Client Order ID,Instrument,Side,Exec Status,Quantity,Price,Reason,Transaction Time
+ord1,aa13, ,1,Reject,100,55,Invalid Instrument,2023.09.03-21.57.15.746
+ord2,aa14,Rose,3,Reject,100,65,Invalid Side,2023.09.03-21.57.15.747
+ord3,aa15,Lavender,2,Reject,101,1,Invalid Size,2023.09.03-21.57.15.747
+ord4,aa16,Tulip,1,Reject,100,-1,Invalid Price,2023.09.03-21.57.15.747
+ord5,aa17,Orchid,1,Reject,1000,-1,Invalid Price,2023.09.03-21.57.15.747
